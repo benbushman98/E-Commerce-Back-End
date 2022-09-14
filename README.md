@@ -5,3 +5,8 @@ This project was created to demonstrate my ability to navigate models, routes, c
 
 ## Walkthrough Video Link
 [https://drive.google.com/file/d/1LKHppLRMx0DswCGJU2jygvR3Le7e-j45/view?usp=sharing](https://drive.google.com/file/d/1LKHppLRMx0DswCGJU2jygvR3Le7e-j45/view?usp=sharing)
+
+## Screenshot
+![Photos of Insomnia running](assets/img/productget.png)
+![Photos of Insomnia running](assets/img/tagget.png)
+![Photos of Insomnia running](assets/img/categoryget.png)
