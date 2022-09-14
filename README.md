@@ -7,6 +7,9 @@ This project was created to demonstrate my ability to navigate models, routes, c
 [https://drive.google.com/file/d/1LKHppLRMx0DswCGJU2jygvR3Le7e-j45/view?usp=sharing](https://drive.google.com/file/d/1LKHppLRMx0DswCGJU2jygvR3Le7e-j45/view?usp=sharing)
 
 ## Screenshot
+### Products Get Route
 ![Photos of Insomnia running](assets/img/productget.png)
+### Tags Get Route
 ![Photos of Insomnia running](assets/img/tagget.png)
+### Categories Get Route
 ![Photos of Insomnia running](assets/img/categoryget.png)
